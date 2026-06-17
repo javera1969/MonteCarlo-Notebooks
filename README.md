@@ -2,12 +2,12 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/javera1969/MonteCarlo-Notebooks/HEAD)
 
-Colección de notebooks educativos sobre el Método de Monte Carlo.
+[![Voilà](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/javera1969/MonteCarlo-Notebooks/HEAD?urlpath=voila/render/Simulacion_Balistica_MonteCarlo_Interactivo_SinCodigo.ipynb)
 
 ## Contenido
 
-1. Estimación de pi mediante Monte Carlo.
-2. Integración Monte Carlo sobre una región triangular.
+1. Estimación de pi mediante el método de Monte Carlo.
+2. Integración de Monte Carlo en una región triangular.
 3. Probabilidad en una baraja española.
 4. Aplicación balística con incertidumbre.
 
