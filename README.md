@@ -1,5 +1,9 @@
 # MonteCarlo-Notebooks
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/javera1969/MonteCarlo-Notebooks/HEAD)
+
+Colección de notebooks educativos sobre el Método de Monte Carlo.
+
 Colección de notebooks educativos sobre el Método de Monte Carlo.
 
 ## Contenido
@@ -15,3 +19,6 @@ Instalar dependencias:
 
 ```bash
 pip install -r requirements.txt
+
+```bash
+jupyter lab
