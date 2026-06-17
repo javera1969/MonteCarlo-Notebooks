@@ -2,7 +2,7 @@ name: montecarlo
 
 channels:
 
-* conda-forge
+- conda-forge
 
 dependencies:
 
