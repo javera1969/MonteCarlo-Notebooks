@@ -4,8 +4,6 @@
 
 Colección de notebooks educativos sobre el Método de Monte Carlo.
 
-Colección de notebooks educativos sobre el Método de Monte Carlo.
-
 ## Contenido
 
 1. Estimación de pi mediante Monte Carlo.
